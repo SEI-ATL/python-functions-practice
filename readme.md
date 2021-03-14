@@ -1,8 +1,9 @@
 # Lab: Practice
 
-No need to turn this in! Instead we will go over as a class together on the whiteboard, so make sure you have working code that you can explain for both problems! 
-
-It is recommended to use [repl](repl.it) to write and test your code!
+- [ ] Make a pull when complete! 
+- [ ] We will go over the answer in groups.
+- [ ] Create a `app.py` file to write and test code.
+- [ ] Write `python3 app.py` in terminal to run code.
 
 It is also recommended to work together with your classmates!
 
